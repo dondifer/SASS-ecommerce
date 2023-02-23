@@ -1,0 +1,28 @@
+.main-footer {
+	display: flex;
+	justify-content: space-evenly;
+	padding: 3rem 3rem;
+	font-size: 10px;
+	background-color: #cf2c30;
+
+	a {
+		color: white;
+		text-decoration: none;
+		line-height: 2;
+
+		.list-title {
+			font-weight: 700;
+		}
+	}
+
+	p {
+		color: white;
+	}
+}
+
+.footer-section {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	margin-right: 3rem;
+}

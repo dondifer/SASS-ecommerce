@@ -1,0 +1,21 @@
+html {
+	font-size: 12px;
+}
+
+body {
+	font-family: 'Work Sans', sans-serif;
+	background-color: #eeeeee;
+}
+
+p {
+	padding: 1rem 0;
+}
+
+img {
+	width: 100%;
+}
+
+@at-root ul#{&} {
+	list-style: none;
+	padding-left: 0;
+}

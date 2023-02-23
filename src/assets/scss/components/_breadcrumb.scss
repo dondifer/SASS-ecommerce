@@ -1,0 +1,10 @@
+.breadcrumb {
+	a {
+		color: black;
+		font-size: 0.8rem;
+	}
+
+	&--actived {
+		text-decoration: none;
+	}
+}
