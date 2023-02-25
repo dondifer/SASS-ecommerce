@@ -1,0 +1,27 @@
+/*RESET*/
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+html {
+  font-size: 16;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.header__content {
+  display: flex;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+}
+
+.header__content .header__content-icon {
+  height: 3.5rem;
+  width: 4rem;
+}/*# sourceMappingURL=index.css.map */

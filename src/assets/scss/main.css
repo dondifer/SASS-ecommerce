@@ -1,0 +1,22 @@
+/*RESET*/
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+html {
+  font-size: 16;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.header__content {
+  display: flex;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+}/*# sourceMappingURL=main.css.map */
